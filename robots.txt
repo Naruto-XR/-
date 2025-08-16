@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://betak-clean.site/sitemap.xml
